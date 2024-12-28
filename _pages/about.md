@@ -59,4 +59,3 @@ Additionally, I completed my [KaggleX-Google](https://www.kagglex.org) project, 
 ### 2011
 
 - Started Engineering Journey at Tribhuvan University, IOE Pashchimanchal Campus, Pokhara, Nepal
-
