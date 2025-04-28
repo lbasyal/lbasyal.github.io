@@ -8,17 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as an Associate Data Scientist at [Infosys Limited](https://www.infosys.com/). These days, I am mainly exploring Computer Vision, Natural Language Processing (NLP), Large Language Models (LLMs), and Machine Learning Operations (MLOps).
+I am a Data Scientist at [Infosys Limited](https://www.infosys.com/) with a focus on exploring Computer Vision.
 
-I received my Master's degree in Computer Engineering with a concentration in Artificial Intelligence from [Stevens Institute of Technology](https://www.stevens.edu). My undergraduate degree is in Electronics and Communication Engineering from [Punjab Technical University](https://ptu.ac.in), and I hold a Diploma in Electronics Engineering from [Tribhuvan University](https://www.ioepas.edu.np). I have been working in the field of Artificial Intelligence and Machine Learning for the past 7 years, ranging from academic research to corporate projects.
-
-Additionally, I completed my [KaggleX-Google](https://www.kagglex.org) project, where I conducted research in Text Summarization using LLMs and compared the generated inferences. Throughout this project, I also worked on LangChain and Hugging Face pipelines to optimize prompt engineering. The full paper detailing this research is available at [https://arxiv.org/abs/2310.10449](https://arxiv.org/abs/2310.10449).
+I earned a Master's degree in Computer Engineering with a concentration in Artificial Intelligence from [Stevens Institute of Technology](https://www.stevens.edu). I hold a Bachelor's degree in Electronics and Communication Engineering from [Punjab Technical University](https://ptu.ac.in) and a Diploma in Electronics Engineering from [Tribhuvan University](https://www.ioepas.edu.np). I have over seven years of experience in the field of Artificial Intelligence and Machine Learning, spanning academic research and corporate projects.
 
 ## News!!!
 
 ### 2024
 
-- Started to work as an Associate Data Scientist at Infosys Limited
+- Started to work as a Data Scientist at Infosys Limited
 
 ### 2023
 
@@ -30,7 +28,6 @@ Additionally, I completed my [KaggleX-Google](https://www.kagglex.org) project, 
 
 - Provost Master's fellowship Awardee
 - Started MS in Computer Engineering, Artificial Intelligence at Stevens Institute of Technology, New Jersey, USA
-- Selected for Erasmus Mundus Scholarship
 
 ### 2019
 
