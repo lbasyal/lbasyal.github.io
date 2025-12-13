@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist at [Infosys Limited](https://www.infosys.com/) with a focus on Computer Vision.
+A Data Scientist at [Infosys Limited](https://www.infosys.com/) specializing in Computer Vision, Generative AI, and Agentic AI, with a strong focus on translating advanced AI research into scalable, high-impact enterprise solutions.
 
-I earned a Master's degree in Computer Engineering with a concentration in Artificial Intelligence from [Stevens Institute of Technology](https://www.stevens.edu). I hold a Bachelor's degree in Electronics and Communication Engineering from [Punjab Technical University](https://ptu.ac.in) and a Diploma in Electronics Engineering from [Tribhuvan University](https://www.ioepas.edu.np). I have over seven years of experience in the field of Artificial Intelligence and Machine Learning, spanning academic research and corporate projects.
+Holds a Master’s degree in Computer Engineering with a concentration in Artificial Intelligence from [Stevens Institute of Technology](https://www.stevens.edu), along with a Bachelor’s degree in Electronics and Communication Engineering from [Punjab Technical University](https://ptu.ac.in) and a Diploma in Electronics Engineering from [Tribhuvan University](https://www.ioepas.edu.np). Brings over seven years of experience across Artificial Intelligence and Machine Learning, spanning academic research and large-scale industry projects, with an emphasis on technical leadership, cross-functional collaboration, and guiding teams from problem formulation to production deployment.
+
+
 
 ## Papers
 
